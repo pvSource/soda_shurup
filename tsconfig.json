@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "removeComments": true,
+        "outDir": "./build/es5_strict",
+        "sourceMap": true,
+        "outFile": "./build/es5_strict/main.js",
+        "alwaysStrict": true
+    }
+}

@@ -1,0 +1,3 @@
+interface Closer {
+    copy(): Closer;
+}
